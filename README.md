@@ -6,7 +6,7 @@ Lets first setup your environment.
 
 ## Install VS Code
 
-VS Code is a 
+VS Code is a code editor, like microsoft word, for code.
 
 Download Link: https://go.microsoft.com/fwlink/?LinkID=620882
 
