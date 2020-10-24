@@ -58,4 +58,4 @@ Open your terminal on your mac, copy/paste this line and hit enter:
 
 Lets learn what these tools do:
 
-Section 2: Tools Overview
+[Section 2: Tools Overview](https://github.com/olivercodes/programming-intro/blob/master/sec-2-tools-overview.md)
