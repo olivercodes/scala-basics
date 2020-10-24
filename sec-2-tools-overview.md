@@ -29,6 +29,8 @@ will help you install it. Homebrew greatly simplifies the install process for a 
 
 Git is a command line (there are also open source GUI tools that work with Git) tool that allows you to maintain your file history, and collaborate on your
 programs with other programmers. It is a tool that is 100% essential to every programmer. You will use it multiple times a day, every day. 
+
+You may have noticed this website is called github.com. Not a coincidence. Most people interact with github.com, using the git program.
  
 ## 4. Docker
 
