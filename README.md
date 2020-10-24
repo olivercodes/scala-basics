@@ -1,20 +1,18 @@
-# Programming Getting Started Guide
+# Programming Getting Started Guide - Section 1: Computer Setup
 
 This guide will get you started with setup, tools overview, and basic programming starter packs.
-
-## Section 1: Computer Setup
 
 Lets first setup your environment.
 
 ---
-### Install VS Code
+## Install VS Code
 
 VS Code is a 
 
 Download Link: https://go.microsoft.com/fwlink/?LinkID=620882
 
 ---
-### Install Homebrew
+## Install Homebrew
 
 Open your terminal on your mac (command + spacebar, terminal)
 Copy/paste this line in and hit enter:
@@ -23,7 +21,7 @@ Copy/paste this line in and hit enter:
 ```
 
 ---
-### Install Docker
+## Install Docker
 
 Docker is a container runtime, you won’t need this right away but doesn’t hurt to go ahead and install it, you’ll need it at some point in the near future.
 
@@ -38,25 +36,25 @@ when you don't need it.
 ZSH is a command line program that makes working with the command line easier, and customizable
 
 ---
-#### Prerequisites for ZSH
+### Prerequisites for ZSH
 You must have homebrew installed first
 
 Open your terminal on your mac, copy/paste this line and hit enter:
 ```brew install zsh```
 
 ---
-### Install Git
+## Install Git
 
 Git is a command line program that lets you maintain file history for code. It is one of the most essential tools of any programmer, used multiple times a day.
 
-#### Prerequisites for Git
+### Prerequisites for Git
 You must have homebrew installed first
 
 Open your terminal on your mac, copy/paste this line and hit enter:
 `brew install git`
 
 ---
-### Whats next
+## Whats next
 
 Lets learn what these tools do:
 
