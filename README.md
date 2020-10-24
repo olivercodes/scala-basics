@@ -31,7 +31,7 @@ when you don't need it.
 
 ZSH is a command line program that makes working with the command line easier, and customizable
 
-### Prerequisites for ZSH
+#### Prerequisites for ZSH
 You must have homebrew installed first
 
 Open your terminal on your mac, copy/paste this line and hit enter:
