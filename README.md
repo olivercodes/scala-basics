@@ -47,3 +47,9 @@ You must have homebrew installed first
 
 Open your terminal on your mac, copy/paste this line and hit enter:
 `brew install git`
+
+### Whats next
+
+Lets learn what these tools do:
+
+Section 2: Tools Overview
