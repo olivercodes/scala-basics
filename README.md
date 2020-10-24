@@ -27,7 +27,7 @@ https://docs.docker.com/docker-for-mac/install/
 - Make sure when you install docker, that you uncheck 'start docker when computer starts.' Docker uses a lot of memory, you don't want it running in the background 
 when you don't need it.
 
-### Install ZSH
+## Install ZSH
 
 ZSH is a command line program that makes working with the command line easier, and customizable
 
