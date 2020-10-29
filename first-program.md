@@ -4,8 +4,8 @@
 
 If you haven't done the `install` and `overview` pages of this guide yet, do those first:
 
-https://github.com/olivercodes/programming-intro/blob/master/README.md
-https://github.com/olivercodes/programming-intro/blob/master/sec-2-tools-overview.md
+- https://github.com/olivercodes/programming-intro/blob/master/README.md
+- https://github.com/olivercodes/programming-intro/blob/master/sec-2-tools-overview.md
 
 ### Getting Started
 
