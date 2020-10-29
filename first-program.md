@@ -1,5 +1,14 @@
 ## Lets write a program
 
+### Prerequisites
+
+If you haven't done the `install` and `overview` pages of this guide yet, do those first:
+
+https://github.com/olivercodes/programming-intro/blob/master/README.md
+https://github.com/olivercodes/programming-intro/blob/master/sec-2-tools-overview.md
+
+### Getting Started
+
 - First, open VS Code. 
 - Go to the top of your screen, click `File > New File`
 - On your keyboard, type `cmd + s`(command and s) which is a shortcut for save
