@@ -53,6 +53,6 @@ ZSH is a command line tool, that simplifies and customizes your command line ter
 
 ## What's next?
 
-Up next, we'll do some basic fun things with these tools.
+Up next, we'll use one of them to write a program
 
-https://github.com/olivercodes/programming-intro/tree/master
+https://github.com/olivercodes/programming-intro/blob/master/first-program.md
