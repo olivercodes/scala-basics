@@ -54,4 +54,5 @@ ZSH is a command line tool, that simplifies and customizes your command line ter
 ## What's next?
 
 Up next, we'll do some basic fun things with these tools.
-Bryan TODO - Add next page
+
+https://github.com/olivercodes/programming-intro/tree/master
