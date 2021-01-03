@@ -21,4 +21,4 @@ The katas can be used by anyone at any level. More complex ones will be added ov
 
 #### Get Started
 
-Go to [https://github.com/olivercodes/programming-intro/tree/master/docs](the docs)
+Go to [The Docs](https://github.com/olivercodes/programming-intro/tree/master/docs)
