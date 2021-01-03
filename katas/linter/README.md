@@ -21,7 +21,7 @@ The program should accept 1 input, a file name
 Output, should be as follows
 
 ```
-Lines greater than 55 Characters Long
+Lines greater than 80 Characters Long
 #####################################
 
 ln: 4, length: 55
