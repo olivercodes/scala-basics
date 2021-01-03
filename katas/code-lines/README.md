@@ -1,4 +1,4 @@
-## File Linter Kata
+## File Reader Kata
 
 The goal of this kata, is to create an executable script, that prints all lines and their line numbers.
 
