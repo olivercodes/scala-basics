@@ -1,54 +1,21 @@
-# Programming Getting Started Guide - Section 1: Computer Setup
+### Programming Intro Repo
 
-This guide will get you started with setup, tools overview, and basic programming starter packs.
+Developing a "learn to program" github repo.
 
-Lets first setup your environment.
+The guide encompasses 2 primary focuses:
 
-## Install VS Code
+1. Setup of your environment and familiarity with the tools
+2. Katas
 
-VS Code is a code editor, like microsoft word, for code.
+#### Why so much kata?
 
-Download Link: https://go.microsoft.com/fwlink/?LinkID=620882
+Perfecting the art or programming, is just like any other skill. Practice makes perfect.
 
-## Install Homebrew
+Kata is also one of the most effective methods for learning programming.
 
-Open your terminal on your mac (command + spacebar, terminal)
-Copy/paste this line in and hit enter:
-```
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
-```
+#### Who is this for?
 
-## Install Docker
+Beginners, new to programming and looking to learn from scratch.
 
-Docker is a container runtime, you won’t need this right away but doesn’t hurt to go ahead and install it, you’ll need it at some point in the near future.
+The katas can be used by anyone at any level. More complex ones will be added over time. 
 
-https://docs.docker.com/docker-for-mac/install/
-
-- Make sure when you install docker, that you uncheck 'start docker when computer starts.' Docker uses a lot of memory, you don't want it running in the background 
-when you don't need it.
-
-## Install ZSH
-
-ZSH is a command line program that makes working with the command line easier, and customizable
-
-#### Prerequisites for ZSH
-You must have homebrew installed first
-
-Open your terminal on your mac, copy/paste this line and hit enter:
-```brew install zsh```
-
-## Install Git
-
-Git is a command line program that lets you maintain file history for code. It is one of the most essential tools of any programmer, used multiple times a day.
-
-### Prerequisites for Git
-You must have homebrew installed first
-
-Open your terminal on your mac, copy/paste this line and hit enter:
-`brew install git`
-
-## Whats next
-
-Lets learn what these tools do:
-
-[Section 2: Tools Overview](https://github.com/olivercodes/programming-intro/blob/master/sec-2-tools-overview.md)
