@@ -1,4 +1,4 @@
-## File Linter Kata
+##  Code Linter Kata
 
 The goal of this kata, is to create an executable script, that lints files for line length.
 
