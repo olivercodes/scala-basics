@@ -55,4 +55,4 @@ ZSH is a command line tool, that simplifies and customizes your command line ter
 
 Up next, we'll use one of them to write a program
 
-https://github.com/olivercodes/programming-intro/blob/master/first-program.md
+https://github.com/olivercodes/programming-intro/blob/master/docs/first-program.md
