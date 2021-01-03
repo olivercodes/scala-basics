@@ -19,3 +19,6 @@ Beginners, new to programming and looking to learn from scratch.
 
 The katas can be used by anyone at any level. More complex ones will be added over time. 
 
+#### Get Started
+
+Go to [The Docs](https://github.com/olivercodes/programming-intro/tree/master/docs)
